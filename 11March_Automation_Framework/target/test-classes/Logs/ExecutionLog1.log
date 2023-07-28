@@ -1,0 +1,550 @@
+2023-07-20 00:00:46,433 [main] INFO Ecommerce - Enter URL
+2023-07-20 00:00:46,574 [main] INFO Ecommerce - Maximize browser
+2023-07-20 00:00:48,008 [main] INFO Ecommerce - clicked on register button
+2023-07-20 00:00:48,084 [main] INFO Ecommerce - Select Gender
+2023-07-20 00:00:48,155 [main] INFO Ecommerce - Enter First Name
+2023-07-20 00:00:48,247 [main] INFO Ecommerce - Enter Last Name
+2023-07-20 00:00:48,321 [main] INFO Ecommerce - Enter Email Address
+2023-07-20 00:00:48,406 [main] INFO Ecommerce - Enter Password
+2023-07-20 00:00:48,476 [main] INFO Ecommerce - Enter confirm Password
+2023-07-20 00:00:52,547 [main] INFO Ecommerce - Created user succesfully
+2023-07-20 00:32:35,020 [main] INFO Ecommerce - Enter URL
+2023-07-20 00:32:35,151 [main] INFO Ecommerce - Maximize browser
+2023-07-20 00:32:35,326 [main] INFO Ecommerce - Enter Email
+2023-07-20 00:32:35,399 [main] INFO Ecommerce - Enter password
+2023-07-20 00:32:37,261 [main] INFO Ecommerce - clicked on logging button
+2023-07-20 00:32:37,271 [main] INFO Ecommerce - Login Test pass
+2023-07-20 00:35:20,539 [main] INFO Ecommerce - Enter URL
+2023-07-20 00:35:20,672 [main] INFO Ecommerce - Maximize browser
+2023-07-20 00:35:23,875 [main] INFO Ecommerce - Enter Email
+2023-07-20 00:35:23,937 [main] INFO Ecommerce - Enter password
+2023-07-20 00:35:25,675 [main] INFO Ecommerce - clicked on logging button
+2023-07-20 00:35:25,687 [main] INFO Ecommerce - Login Test pass
+2023-07-20 16:19:32,103 [main] INFO Ecommerce - Enter URL
+2023-07-20 16:19:32,225 [main] INFO Ecommerce - Maximize browser
+2023-07-20 16:19:35,425 [main] INFO Ecommerce - Enter Email
+2023-07-20 16:19:35,532 [main] INFO Ecommerce - Enter password
+2023-07-20 16:19:38,051 [main] INFO Ecommerce - clicked on logging button
+2023-07-20 16:19:38,063 [main] INFO Ecommerce - Login Test pass
+2023-07-21 10:47:12,150 [main] INFO Ecommerce - Enter URL
+2023-07-21 10:47:12,282 [main] INFO Ecommerce - Maximize browser
+2023-07-21 10:47:13,636 [main] INFO Ecommerce - clicked on register button
+2023-07-21 10:47:13,692 [main] INFO Ecommerce - Select Gender
+2023-07-21 10:47:13,832 [main] INFO Ecommerce - Enter First Name
+2023-07-21 10:47:13,910 [main] INFO Ecommerce - Enter Last Name
+2023-07-21 10:47:17,053 [main] INFO Ecommerce - Enter Email Address
+2023-07-21 10:47:17,125 [main] INFO Ecommerce - Enter Password
+2023-07-21 10:47:17,192 [main] INFO Ecommerce - Enter confirm Password
+2023-07-21 10:47:21,207 [main] INFO Ecommerce - Created user succesfully
+2023-07-21 10:47:26,380 [main] INFO Ecommerce - Enter URL
+2023-07-21 10:47:26,499 [main] INFO Ecommerce - Maximize browser
+2023-07-21 10:47:29,574 [main] INFO Ecommerce - Enter Email
+2023-07-21 10:47:29,643 [main] INFO Ecommerce - Enter password
+2023-07-21 10:47:32,246 [main] INFO Ecommerce - clicked on logging button
+2023-07-21 10:47:32,252 [main] INFO Ecommerce - Login Test pass
+2023-07-21 11:21:35,091 [main] INFO Ecommerce - Enter URL
+2023-07-21 11:21:35,211 [main] INFO Ecommerce - Maximize browser
+2023-07-21 11:21:36,455 [main] INFO Ecommerce - clicked on register button
+2023-07-21 11:21:36,509 [main] INFO Ecommerce - Select Gender
+2023-07-21 11:21:36,572 [main] INFO Ecommerce - Enter First Name
+2023-07-21 11:21:36,628 [main] INFO Ecommerce - Enter Last Name
+2023-07-21 11:21:39,701 [main] INFO Ecommerce - Enter Email Address
+2023-07-21 11:21:39,762 [main] INFO Ecommerce - Enter Password
+2023-07-21 11:21:39,833 [main] INFO Ecommerce - Enter confirm Password
+2023-07-21 11:21:44,474 [main] INFO Ecommerce - Created user succesfully
+2023-07-21 18:15:43,989 [main] INFO Ecommerce - Enter URL
+2023-07-21 18:15:44,119 [main] INFO Ecommerce - Maximize browser
+2023-07-21 18:15:44,673 [main] INFO Ecommerce - clicked on register button
+2023-07-21 18:15:44,734 [main] INFO Ecommerce - Select Gender
+2023-07-21 18:15:44,864 [main] INFO Ecommerce - Enter First Name
+2023-07-21 18:15:45,025 [main] INFO Ecommerce - Enter Last Name
+2023-07-21 18:15:48,108 [main] INFO Ecommerce - Enter Email Address
+2023-07-21 18:15:48,188 [main] INFO Ecommerce - Enter Password
+2023-07-21 18:15:48,255 [main] INFO Ecommerce - Enter confirm Password
+2023-07-21 18:15:52,166 [main] INFO Ecommerce - Created user succesfully
+2023-07-21 18:16:00,685 [main] INFO Ecommerce - Enter URL
+2023-07-21 18:16:00,803 [main] INFO Ecommerce - Maximize browser
+2023-07-21 18:16:03,887 [main] INFO Ecommerce - Enter Email
+2023-07-21 18:16:03,963 [main] INFO Ecommerce - Enter password
+2023-07-21 18:16:04,433 [main] INFO Ecommerce - clicked on logging button
+2023-07-21 18:21:11,187 [main] INFO Ecommerce - Enter URL
+2023-07-21 18:21:11,323 [main] INFO Ecommerce - Maximize browser
+2023-07-21 18:21:11,845 [main] INFO Ecommerce - clicked on register button
+2023-07-21 18:21:11,902 [main] INFO Ecommerce - Select Gender
+2023-07-21 18:21:12,016 [main] INFO Ecommerce - Enter First Name
+2023-07-21 18:21:12,088 [main] INFO Ecommerce - Enter Last Name
+2023-07-21 18:21:15,179 [main] INFO Ecommerce - Enter Email Address
+2023-07-21 18:21:15,287 [main] INFO Ecommerce - Enter Password
+2023-07-21 18:21:15,377 [main] INFO Ecommerce - Enter confirm Password
+2023-07-21 18:21:19,282 [main] INFO Ecommerce - Created user succesfully
+2023-07-21 18:21:28,037 [main] INFO Ecommerce - Enter URL
+2023-07-21 18:21:28,159 [main] INFO Ecommerce - Maximize browser
+2023-07-21 18:21:31,252 [main] INFO Ecommerce - Enter Email
+2023-07-21 18:21:31,315 [main] INFO Ecommerce - Enter password
+2023-07-21 18:21:32,141 [main] INFO Ecommerce - clicked on logging button
+2023-07-21 18:21:32,151 [main] INFO Ecommerce - Login Test pass
+2023-07-22 11:21:51,895 [main] INFO Ecommerce - Enter URL
+2023-07-22 11:21:52,020 [main] INFO Ecommerce - Maximize browser
+2023-07-22 11:29:56,345 [main] INFO Ecommerce - Enter URL
+2023-07-22 11:29:56,468 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:38:08,869 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:38:08,987 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:38:10,443 [main] INFO Ecommerce - clicked on register button
+2023-07-22 14:38:10,502 [main] INFO Ecommerce - Select Gender
+2023-07-22 14:38:10,578 [main] INFO Ecommerce - Enter First Name
+2023-07-22 14:38:10,667 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 14:38:13,815 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 14:38:13,876 [main] INFO Ecommerce - Enter Password
+2023-07-22 14:38:13,940 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 14:38:17,888 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 14:38:23,894 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:38:24,015 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:38:27,123 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:38:27,186 [main] INFO Ecommerce - Enter password
+2023-07-22 14:38:28,494 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:38:34,610 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:38:34,742 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:38:42,332 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:38:42,455 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:38:45,647 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:38:45,706 [main] INFO Ecommerce - Enter password
+2023-07-22 14:38:46,929 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:41:24,446 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:41:24,574 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:41:25,940 [main] INFO Ecommerce - clicked on register button
+2023-07-22 14:41:26,029 [main] INFO Ecommerce - Select Gender
+2023-07-22 14:41:26,094 [main] INFO Ecommerce - Enter First Name
+2023-07-22 14:41:26,217 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 14:41:29,297 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 14:41:29,357 [main] INFO Ecommerce - Enter Password
+2023-07-22 14:41:29,419 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 14:41:33,407 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 14:41:38,424 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:41:38,539 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:41:41,627 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:41:41,685 [main] INFO Ecommerce - Enter password
+2023-07-22 14:41:42,225 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:41:48,886 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:41:49,002 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:41:56,186 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:41:56,306 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:41:59,404 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:41:59,462 [main] INFO Ecommerce - Enter password
+2023-07-22 14:42:00,773 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:43:53,962 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:43:54,087 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:43:54,744 [main] INFO Ecommerce - clicked on register button
+2023-07-22 14:43:54,799 [main] INFO Ecommerce - Select Gender
+2023-07-22 14:43:54,903 [main] INFO Ecommerce - Enter First Name
+2023-07-22 14:43:54,973 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 14:43:58,060 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 14:43:58,120 [main] INFO Ecommerce - Enter Password
+2023-07-22 14:43:58,182 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 14:44:02,113 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 14:44:07,313 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:44:07,433 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:44:10,584 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:44:10,645 [main] INFO Ecommerce - Enter password
+2023-07-22 14:44:11,793 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:44:11,805 [main] INFO Ecommerce - Login Test pass
+2023-07-22 14:44:17,073 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:44:17,189 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:44:24,634 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:44:24,750 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:44:27,832 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:44:27,895 [main] INFO Ecommerce - Enter password
+2023-07-22 14:44:29,427 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:44:31,811 [main] INFO Ecommerce - add to cart test case succesful
+2023-07-22 14:57:12,499 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:57:12,632 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:57:15,868 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:57:15,931 [main] INFO Ecommerce - Enter password
+2023-07-22 14:57:18,272 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:57:19,141 [main] INFO Ecommerce - login test case pass
+2023-07-22 14:57:25,144 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:57:25,269 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:57:28,392 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:57:28,451 [main] INFO Ecommerce - Enter password
+2023-07-22 14:57:29,036 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:57:39,045 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:57:39,168 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:57:42,261 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:57:42,323 [main] INFO Ecommerce - Enter password
+2023-07-22 14:57:42,851 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:57:48,666 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:57:48,800 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:57:51,937 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:57:52,001 [main] INFO Ecommerce - Enter password
+2023-07-22 14:57:52,580 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 14:57:58,325 [main] INFO Ecommerce - Enter URL
+2023-07-22 14:57:58,451 [main] INFO Ecommerce - Maximize browser
+2023-07-22 14:58:01,531 [main] INFO Ecommerce - Enter Email
+2023-07-22 14:58:01,590 [main] INFO Ecommerce - Enter password
+2023-07-22 14:58:02,071 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 15:01:37,013 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:01:37,138 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:01:40,305 [main] INFO Ecommerce - Enter Email
+2023-07-22 15:01:40,368 [main] INFO Ecommerce - Enter password
+2023-07-22 15:01:42,133 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 15:01:43,153 [main] INFO Ecommerce - login test case pass
+2023-07-22 15:01:49,375 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:01:49,490 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:01:52,597 [main] INFO Ecommerce - Enter Email
+2023-07-22 15:01:52,663 [main] INFO Ecommerce - Enter password
+2023-07-22 15:01:53,943 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 15:01:59,154 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:01:59,265 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:02:02,337 [main] INFO Ecommerce - Enter Email
+2023-07-22 15:02:02,393 [main] INFO Ecommerce - Enter password
+2023-07-22 15:02:03,675 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 15:02:09,457 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:02:09,575 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:02:12,695 [main] INFO Ecommerce - Enter Email
+2023-07-22 15:02:12,755 [main] INFO Ecommerce - Enter password
+2023-07-22 15:02:13,280 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 15:02:19,402 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:02:19,521 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:02:22,613 [main] INFO Ecommerce - Enter Email
+2023-07-22 15:02:22,671 [main] INFO Ecommerce - Enter password
+2023-07-22 15:02:23,224 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 15:04:32,980 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:04:33,109 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:11:26,545 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:11:26,688 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:19:51,538 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:19:51,685 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:23:20,280 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:23:20,412 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:28:59,834 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:28:59,961 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:33:02,187 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:33:02,308 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:37:51,708 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:37:51,844 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:38:18,007 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:38:18,166 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:38:44,226 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:38:44,362 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:39:10,529 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:39:10,655 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:39:37,305 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:39:37,430 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:40:03,911 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:40:04,041 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:40:30,013 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:40:30,127 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:40:56,208 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:40:56,336 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:41:23,093 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:41:23,206 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:42:40,138 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:42:40,257 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:43:05,484 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:43:05,610 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:43:31,847 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:43:31,967 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:43:58,234 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:43:58,356 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:44:25,415 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:44:25,549 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:44:51,177 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:44:51,294 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:45:17,416 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:45:17,549 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:45:44,779 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:45:44,916 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:46:12,926 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:46:13,060 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:46:38,975 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:46:39,085 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:47:04,805 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:47:04,919 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:47:33,179 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:47:33,294 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:47:59,249 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:47:59,370 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:48:25,804 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:48:25,918 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:48:50,978 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:48:51,100 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:49:16,951 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:49:17,069 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:49:43,096 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:49:43,218 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:50:08,938 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:50:09,068 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:50:34,071 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:50:34,188 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:51:00,126 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:51:00,246 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:51:26,552 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:51:26,671 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:51:52,323 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:51:52,439 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:52:18,167 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:52:18,290 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:52:43,206 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:52:43,323 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:57:22,347 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:57:22,464 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:57:48,866 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:57:48,990 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:58:14,959 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:58:15,076 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:59:22,280 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:59:22,396 [main] INFO Ecommerce - Maximize browser
+2023-07-22 15:59:48,113 [main] INFO Ecommerce - Enter URL
+2023-07-22 15:59:48,230 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:00:14,280 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:00:14,390 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:00:39,604 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:00:39,722 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:01:05,495 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:01:05,620 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:01:32,198 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:01:32,323 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:04:03,445 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:04:03,565 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:04:56,028 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:04:56,157 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:04:57,354 [main] INFO Ecommerce - clicked on register button
+2023-07-22 16:04:57,408 [main] INFO Ecommerce - Select Gender
+2023-07-22 16:04:57,472 [main] INFO Ecommerce - Enter First Name
+2023-07-22 16:04:57,534 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 16:05:00,606 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 16:05:00,662 [main] INFO Ecommerce - Enter Password
+2023-07-22 16:05:00,721 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 16:05:04,607 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 16:05:09,360 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:05:09,472 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:05:12,545 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:05:12,600 [main] INFO Ecommerce - Enter password
+2023-07-22 16:05:13,079 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:05:19,077 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:05:19,196 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:06:07,300 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:06:07,415 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:06:10,487 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:06:10,546 [main] INFO Ecommerce - Enter password
+2023-07-22 16:06:10,990 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:06:36,770 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:06:36,882 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:06:39,961 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:06:40,016 [main] INFO Ecommerce - Enter password
+2023-07-22 16:06:41,249 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:06:46,123 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:06:46,243 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:06:49,326 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:06:49,380 [main] INFO Ecommerce - Enter password
+2023-07-22 16:06:52,438 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:06:57,468 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:06:57,591 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:07:00,664 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:07:00,719 [main] INFO Ecommerce - Enter password
+2023-07-22 16:07:01,893 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:07:06,731 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:07:06,843 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:07:09,925 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:07:09,979 [main] INFO Ecommerce - Enter password
+2023-07-22 16:07:10,454 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:07:15,274 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:07:15,395 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:07:18,471 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:07:18,527 [main] INFO Ecommerce - Enter password
+2023-07-22 16:07:18,980 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:21:06,722 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:21:06,851 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:21:07,557 [main] INFO Ecommerce - clicked on register button
+2023-07-22 16:21:07,613 [main] INFO Ecommerce - Select Gender
+2023-07-22 16:21:07,699 [main] INFO Ecommerce - Enter First Name
+2023-07-22 16:21:07,797 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 16:21:10,873 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 16:21:10,932 [main] INFO Ecommerce - Enter Password
+2023-07-22 16:21:10,994 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 16:21:15,021 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 16:21:20,924 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:21:21,050 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:21:24,136 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:21:24,198 [main] INFO Ecommerce - Enter password
+2023-07-22 16:21:26,000 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:21:26,011 [main] INFO Ecommerce - Login Test pass
+2023-07-22 16:21:32,166 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:21:32,291 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:22:28,056 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:22:28,183 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:22:31,408 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:22:31,467 [main] INFO Ecommerce - Enter password
+2023-07-22 16:22:32,457 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:22:34,738 [main] INFO Ecommerce - add to cart test case succesful
+2023-07-22 16:22:41,453 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:22:41,577 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:22:44,734 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:22:44,796 [main] INFO Ecommerce - Enter password
+2023-07-22 16:22:47,321 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:22:48,190 [main] INFO Ecommerce - login test case pass
+2023-07-22 16:22:53,360 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:22:53,480 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:22:56,649 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:22:56,703 [main] INFO Ecommerce - Enter password
+2023-07-22 16:22:57,181 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:23:02,526 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:23:02,649 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:23:05,811 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:23:05,865 [main] INFO Ecommerce - Enter password
+2023-07-22 16:23:07,178 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:23:13,076 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:23:13,193 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:23:16,280 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:23:16,339 [main] INFO Ecommerce - Enter password
+2023-07-22 16:23:16,911 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:23:22,072 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:23:22,186 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:23:25,277 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:23:25,335 [main] INFO Ecommerce - Enter password
+2023-07-22 16:23:25,910 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:26:58,879 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:26:59,012 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:27:00,472 [main] INFO Ecommerce - clicked on register button
+2023-07-22 16:27:00,543 [main] INFO Ecommerce - Select Gender
+2023-07-22 16:27:00,622 [main] INFO Ecommerce - Enter First Name
+2023-07-22 16:27:00,733 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 16:27:03,840 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 16:27:03,897 [main] INFO Ecommerce - Enter Password
+2023-07-22 16:27:03,961 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 16:27:07,814 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 16:27:13,702 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:27:13,820 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:27:16,925 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:27:16,984 [main] INFO Ecommerce - Enter password
+2023-07-22 16:27:18,602 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:27:18,609 [main] INFO Ecommerce - Login Test pass
+2023-07-22 16:27:23,930 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:27:24,054 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:28:23,752 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:28:23,875 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:28:27,067 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:28:27,125 [main] INFO Ecommerce - Enter password
+2023-07-22 16:28:28,049 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:28:30,140 [main] INFO Ecommerce - add to cart test case succesful
+2023-07-22 16:28:36,351 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:28:36,463 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:28:39,562 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:28:39,620 [main] INFO Ecommerce - Enter password
+2023-07-22 16:28:40,974 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:28:41,841 [main] INFO Ecommerce - login test case pass
+2023-07-22 16:28:47,046 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:28:47,161 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:28:50,239 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:28:50,293 [main] INFO Ecommerce - Enter password
+2023-07-22 16:28:50,826 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:28:56,041 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:28:56,155 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:28:59,243 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:28:59,299 [main] INFO Ecommerce - Enter password
+2023-07-22 16:28:59,848 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:29:05,067 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:29:05,190 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:29:08,275 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:29:08,331 [main] INFO Ecommerce - Enter password
+2023-07-22 16:29:08,845 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:29:14,650 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:29:14,773 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:29:17,878 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:29:17,939 [main] INFO Ecommerce - Enter password
+2023-07-22 16:29:18,429 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:33:03,642 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:33:03,767 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:33:05,212 [main] INFO Ecommerce - clicked on register button
+2023-07-22 16:33:05,270 [main] INFO Ecommerce - Select Gender
+2023-07-22 16:33:05,422 [main] INFO Ecommerce - Enter First Name
+2023-07-22 16:33:05,563 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 16:33:08,656 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 16:33:08,717 [main] INFO Ecommerce - Enter Password
+2023-07-22 16:33:08,781 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 16:33:12,740 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 16:33:18,527 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:33:18,650 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:33:21,750 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:33:48,168 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:33:48,292 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:34:50,118 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:34:50,232 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:34:53,330 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:35:19,384 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:35:19,525 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:35:22,623 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:35:47,982 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:35:48,102 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:35:51,284 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:36:16,614 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:36:16,739 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:36:19,828 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:36:46,046 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:36:46,168 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:36:49,253 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:37:16,426 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:37:16,549 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:37:19,626 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:47:10,676 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:47:10,800 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:47:11,321 [main] INFO Ecommerce - clicked on register button
+2023-07-22 16:47:11,372 [main] INFO Ecommerce - Select Gender
+2023-07-22 16:47:11,437 [main] INFO Ecommerce - Enter First Name
+2023-07-22 16:47:11,499 [main] INFO Ecommerce - Enter Last Name
+2023-07-22 16:47:14,571 [main] INFO Ecommerce - Enter Email Address
+2023-07-22 16:47:14,633 [main] INFO Ecommerce - Enter Password
+2023-07-22 16:47:14,691 [main] INFO Ecommerce - Enter confirm Password
+2023-07-22 16:47:18,535 [main] INFO Ecommerce - Created user succesfully
+2023-07-22 16:47:24,194 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:47:24,312 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:47:27,400 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:47:27,456 [main] INFO Ecommerce - Enter password
+2023-07-22 16:47:29,087 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:47:29,097 [main] INFO Ecommerce - Login Test pass
+2023-07-22 16:47:34,914 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:47:35,045 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:48:30,374 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:48:30,484 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:48:33,568 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:48:33,626 [main] INFO Ecommerce - Enter password
+2023-07-22 16:48:34,558 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:48:36,693 [main] INFO Ecommerce - add to cart test case succesful
+2023-07-22 16:48:42,298 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:48:42,410 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:48:45,508 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:48:45,568 [main] INFO Ecommerce - Enter password
+2023-07-22 16:48:46,549 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:48:47,338 [main] INFO Ecommerce - login test case pass
+2023-07-22 16:48:52,174 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:48:52,287 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:48:55,365 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:48:55,421 [main] INFO Ecommerce - Enter password
+2023-07-22 16:48:55,889 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:49:00,814 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:49:00,933 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:49:04,016 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:49:04,070 [main] INFO Ecommerce - Enter password
+2023-07-22 16:49:05,272 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:49:10,127 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:49:10,251 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:49:13,335 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:49:13,388 [main] INFO Ecommerce - Enter password
+2023-07-22 16:49:13,832 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:49:19,584 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:49:19,702 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:49:22,785 [main] INFO Ecommerce - Enter Email
+2023-07-22 16:49:22,844 [main] INFO Ecommerce - Enter password
+2023-07-22 16:49:24,008 [main] INFO Ecommerce - clicked on logging button
+2023-07-22 16:51:00,553 [main] INFO Ecommerce - Enter URL
+2023-07-22 16:51:00,679 [main] INFO Ecommerce - Maximize browser
+2023-07-22 16:51:01,895 [main] INFO Ecommerce - clicked on register button
+2023-07-22 16:51:01,949 [main] INFO Ecommerce - Select Gender
+2023-07-22 16:51:02,016 [main] INFO Ecommerce - Enter First Name
+2023-07-22 17:07:33,617 [main] INFO Ecommerce - Enter URL
+2023-07-22 17:07:33,747 [main] INFO Ecommerce - Maximize browser
+2023-07-22 17:07:35,113 [main] INFO Ecommerce - clicked on register button
+2023-07-22 17:07:35,204 [main] INFO Ecommerce - Select Gender
+2023-07-22 17:12:40,047 [main] INFO Ecommerce - Enter URL
+2023-07-22 17:12:40,187 [main] INFO Ecommerce - Maximize browser
+2023-07-22 17:12:41,525 [main] INFO Ecommerce - clicked on register button
+2023-07-22 17:12:41,616 [main] INFO Ecommerce - Select Gender
